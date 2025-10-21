@@ -49,16 +49,12 @@ Poseo una actitud profesional y compromiso constante con el aprendizaje, buscand
 ---
 <!-- Top languages -->
 <p align="center">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=JonathanDeveloperDream&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-       alt="JonathanDeveloperDream" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonathanDeveloperDream&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="JonathanDeveloperDream" />
 </p>
 
 <!-- GitHub stats (opcional) -->
 <p align="center">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=JonathanDeveloperDream&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
-       alt="JonathanDeveloperDream's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JonathanDeveloperDream&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="JonathanDeveloperDream's GitHub stats" />
 </p>
 
 
