@@ -42,7 +42,7 @@ Poseo una actitud profesional y compromiso constante con el aprendizaje, buscand
  -->
 
  <p align='left'>
-   <a href="www.linkedin.com/in/jonathan-manuel-marin-cruz-08809a2b0" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/jonathan-manuel-marin-cruz-08809a2b0/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
    <a href="https://github.com/JonathanDeveloperDream" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  </p>
 
