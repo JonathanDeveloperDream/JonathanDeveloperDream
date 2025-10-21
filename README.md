@@ -45,11 +45,7 @@ Poseo una actitud profesional y compromiso constante con el aprendizaje, buscand
    <a href="https://www.linkedin.com/in/jonathan-manuel-marin-cruz-08809a2b0/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
    <a href="https://github.com/JonathanDeveloperDream" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  </p>
-
-
-![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg)
-![GitHub last commit](https://github.com/UjwalKandi/UjwalKandi/blob/master/svg/last%20commit.svg)
-![pv](https://pageview.vercel.app/?github_user=UjwalKandi)
+ 
 ---
 
 - 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
