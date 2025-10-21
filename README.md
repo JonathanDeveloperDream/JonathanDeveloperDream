@@ -18,7 +18,7 @@
 - ☕ Mi lenguaje de programacion favorito es Java.
 - 🖥️ Mi especialidad es el desarrolo backend.
 
-#### 💫 Sobre Mi:
+### 💫 Sobre Mi:
 
 Soy un Desarrollador Backend especializado en Java con Spring, con más de un año de experiencia práctica en el desarrollo de aplicaciones web. Me considero una persona proactiva, responsable y orientada a resultados, con la capacidad de completar proyectos desafiantes con éxito.
 Poseo una actitud profesional y compromiso constante con el aprendizaje, buscando siempre crecer tanto en el ámbito técnico como personal.
