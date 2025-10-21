@@ -3,10 +3,10 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h3 align="center">
+<h2 align="center">
   Hola, soy Jonathan Marin
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 
 ---
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
@@ -18,7 +18,7 @@
 - ☕ Mi lenguaje de programacion favorito es Java.
 - 🖥️ Mi especialidad es el desarrolo backend.
 
-# 💫 Sobre Mi:
+#### 💫 Sobre Mi:
 
 Soy un Desarrollador Backend especializado en Java con Spring, con más de un año de experiencia práctica en el desarrollo de aplicaciones web. Me considero una persona proactiva, responsable y orientada a resultados, con la capacidad de completar proyectos desafiantes con éxito.
 Poseo una actitud profesional y compromiso constante con el aprendizaje, buscando siempre crecer tanto en el ámbito técnico como personal.
