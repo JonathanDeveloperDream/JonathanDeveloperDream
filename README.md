@@ -47,7 +47,7 @@ Poseo una actitud profesional y compromiso constante con el aprendizaje, buscand
  </p>
  
 ---
-📈 Estadisticas
+####📈 Estadisticas
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanDeveloperDream&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="JonathanDeveloperDream's GitHub stats" />
    &nbsp;&nbsp;&nbsp;&nbsp;
